@@ -1,1 +1,5 @@
+name,smiles
+Imatinib,CC1=CC=C(C=C1)NC(=O)C2=CN=CC=C2
+Sunitinib,CCN(CC)CCOC1=C(C=CC=C1)C2=CC=CC=N2
+Erlotinib,CN(C)CCOC1=CC=CC=C1C2=CC=CC=N2
 Placeholder file
