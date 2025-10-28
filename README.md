@@ -1,10 +1,12 @@
-A cheminformatics pipeline for ligand-based virtual screening using publicly available chemical data (ChEMBL and ZINC). 
+#KInaseSeek: A Case Study in Virtual Screening for Kinase Inhibitors
 
-Objectives:
+1) Objective: This project is a self-directed case study demonstrating a complete structure-based virtual screening workflow to identify potential inhibitors for a specific target.
+The goal is to showcase the full process: from target and library selection to docking, post-processing, and hit analysis. The entire workflow is documented in a single Jupyter Notebook.
 
-1) Parse and clean real molecular datasets from ChEMBL(kinase inhibitors) and ZINC(virtual screening library).
-2) Load molecular structures from SMILES using RDKit.
-3) Compute Morgan fingerprints.
-4) Calculate average  Tanimoto similarity for each ZINC molecule vs. kinase references.
-5) Output a ranked list of potential kinase-like hits.
+2) Key Features:
+- Target selection and preparation.
+- Ligand library preparation.
+- Virtual screening.
+- Hit analysis and visualisation.
 
+3) Tools Used: Python, RDKit, pandas, Matplotlib, PyMol. 
