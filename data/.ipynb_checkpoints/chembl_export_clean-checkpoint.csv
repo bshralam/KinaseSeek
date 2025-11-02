@@ -1,0 +1,525 @@
+name,smiles
+LOSMAPIMOD,Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)NCC(C)(C)C)cn1
+TUNLAMETINIB,O=C(NOCCO)c1cc2scnc2c(F)c1Nc1ccc(I)cc1F
+CAPMATINIB,CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F
+GAMCEMETINIB,CCOCc1cnc(Cl)nc1Oc1ccc2c(ccc3sc4c(c32)NC[C@@H](C)NC4=O)n1
+BALAMAPIMOD,COc1cc2c(Nc3ccc(Sc4nccn4C)c(Cl)c3)c(C#N)cnc2cc1N1CCC(N2CCCC2)CC1
+SURUFATINIB,Cc1cc2cc(Oc3ccnc(Nc4cccc(CS(=O)(=O)NCCN(C)C)c4)n3)ccc2[nH]1
+BREPOCITINIB,Cn1cc(Nc2nccc(N3C[C@H]4CC[C@@H](C3)N4C(=O)[C@@H]3CC3(F)F)n2)cn1
+EPITINIB,C#Cc1cccc(Nc2ncnc3cc(OC)c(NC(=O)N4CCN(CC)CC4)cc23)c1
+ZIDESAMTINIB,CCn1ncc2c1-c1cnc(N)c(c1)O[C@H](C)c1cc(F)ccc1-c1nn(C)nc1C2
+TOLEBRUTINIB,C=CC(=O)N1CCC[C@@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)nccc32)C1
+TASELISIB,Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1
+RITLECITINIB,C=CC(=O)N1C[C@H](Nc2ncnc3[nH]ccc23)CC[C@@H]1C
+PEXMETINIB,Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)NCc2cc(F)ccc2Oc2ccc3c(cnn3CCO)c2)cc1
+DERAZANTINIB HYDROCHLORIDE,COCCNCCc1cccc(Nc2ncc3c(n2)-c2ccccc2[C@H](c2ccccc2F)C3)c1.Cl.Cl
+COPANLISIB,COc1c(OCCCN2CCOCC2)ccc2c1N=C(NC(=O)c1cnc(N)nc1)N1CCN=C21
+POZIOTINIB,C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1
+RIPRETINIB,CCn1c(=O)c(-c2cc(NC(=O)Nc3ccccc3)c(F)cc2Br)cc2cnc(NC)cc21
+VEVORISERTIB,CC(=O)N(C)C1CCN(c2cccc(-c3ccc4nc(-c5cccnc5N)n(-c5ccc(C6(N)CCC6)cc5)c4n3)c2)CC1
+ATUZABRUTINIB,CC(C)(C)/C=C(\C#N)C(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3F)c3c(N)ncnc32)C1
+DUVELISIB MONOHYDRATE,C[C@H](Nc1ncnc2nc[nH]c12)c1cc2cccc(Cl)c2c(=O)n1-c1ccccc1.O
+EXARAFENIB,Cc1ccc(NC(=O)N2CC[C@@H](CC(F)(F)F)C2)cc1-c1cc(N[C@H](C)CO)nc(N2CCOCC2)c1
+ULECACICLIB,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4sc(NC5CCCC5)nc4C)n3)nc2)CC1
+OLMUTINIB,C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccsc23)c1
+AZENOSERTIB,C=CCn1c(=O)c2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc2n1-c1ccc2c(n1)[C@@](O)(CC)CC2
+MIRANSERTIB MESYLATE,CS(=O)(=O)O.CS(=O)(=O)O.Nc1ncccc1-c1nc2ccc(-c3ccccc3)nc2n1-c1ccc(C2(N)CCC2)cc1
+AFURESERTIB,Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2cccc(F)c2)sc1Cl
+FUTIBATINIB,C=CC(=O)N1CC[C@H](n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1
+ERLOTINIB,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1
+CERITINIB,Cc1cc(Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)c(OC(C)C)cc1C1CCNCC1
+ZUNSEMETINIB,Cc1cnc(-c2ccnc(C(C)(C)O)n2)cc1-n1c(C)cc(OCc2ncc(F)cc2F)c(Cl)c1=O
+TEMUTERKIB,Cn1nccc1Nc1nccc(-c2cc3c(s2)C(C)(C)N(CCN2CCOCC2)C3=O)n1
+RONICICLIB,C[C@@H](O)[C@@H](C)Oc1nc(Nc2ccc(S(=N)(=O)C3CC3)cc2)ncc1C(F)(F)F
+ANIZATRECTINIB,COCCN1C[C@@H](NC(=O)Nc2c(C)c(-c3cnc(C)nc3)nn2-c2ccccc2)[C@H](c2cccc(F)c2)C1
+GANDOTINIB,Cc1cc(Nc2cc(CN3CCOCC3)c3nc(C)c(Cc4ccc(Cl)cc4F)n3n2)n[nH]1
+BUPARLISIB,Nc1cc(C(F)(F)F)c(-c2cc(N3CCOCC3)nc(N3CCOCC3)n2)cn1
+ZOTIRACICLIB,CN1C/C=C/CCOc2cccc(c2)-c2ccnc(n2)Nc2cccc(c2)C1
+SELPERCATINIB,COc1ccc(CN2C3CC2CN(c2ccc(-c4cc(OCC(C)(C)O)cn5ncc(C#N)c45)cn2)C3)cn1
+MAVELERTINIB,C=CC(=O)N[C@@H]1CN(c2nc(Nc3cn(C)nc3OC)c3ncn(C)c3n2)C[C@H]1F
+DUBERMATINIB TARTRATE,CN1CCN(Cc2ccc(Nc3ncc(Cl)c(Nc4ccccc4S(=O)(=O)N(C)C)n3)cc2)CC1.O=C(O)C(O)C(O)C(=O)O.O=C(O)C(O)C(O)C(=O)O
+BEFOTERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(CC(F)(F)F)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+NEDISERTIB,COc1ccc([C@@H](O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)nn1
+LANRAPLENIB SUCCINATE,Nc1cncc(-c2cn3ccnc3c(Nc3ccc(N4CCN(C5COC5)CC4)cc3)n2)n1.Nc1cncc(-c2cn3ccnc3c(Nc3ccc(N4CCN(C5COC5)CC4)cc3)n2)n1.O=C(O)CCC(=O)O.O=C(O)CCC(=O)O.O=C(O)CCC(=O)O
+RISOVALISIB,COC(=O)Nc1cc(C(F)(F)F)c(-c2nc(N3CCOCC3)c3cc(CN4CCN(S(C)(=O)=O)CC4)cn3n2)cn1
+EDRALBRUTINIB,CC#CC(=O)N1CC[C@@H](n2cc(-c3ccc(Oc4c(F)cccc4F)cc3)c3c(N)n[nH]c(=O)c32)C1
+RIGOSERTIB,COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(NCC(=O)O)c2)c(OC)c1
+TAGTOCICLIB,COCc1cc(C(=O)Nc2cc([C@H]3CC[C@@H](OC(=O)NC(C)C)C3)[nH]n2)n(C)n1
+ALECTINIB,CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O
+ZIMLOVISERTIB,CC[C@@H]1[C@H](F)C(=O)N[C@@H]1COc1nccc2cc(C(N)=O)c(OC)cc12
+BRICICLIB,COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(OP(=O)(O)O)c2)c(OC)c1
+GILTERITINIB FUMARATE,CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1.CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1.O=C(O)/C=C/C(=O)O
+TINLORAFENIB,Cc1c(Nc2c(F)ccc(NS(=O)(=O)CCCF)c2Cl)ccc2ncn(C)c(=O)c12
+NERATINIB,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C
+EDICOTINIB,CC1(C)CC=C(c2nc(C3CC(C)(C)OC(C)(C)C3)ccc2NC(=O)c2nc(C#N)c[nH]2)CC1
+DACTOLISIB TOSYLATE,Cc1ccc(S(=O)(=O)O)cc1.Cn1c(=O)n(-c2ccc(C(C)(C)C#N)cc2)c2c3cc(-c4cnc5ccccc5c4)ccc3ncc21
+RECILISIB SODIUM,O=C([O-])c1ccc(/C=C/S(=O)(=O)Cc2ccc(Cl)cc2)cc1.[Na+]
+DILMAPIMOD TOSYLATE,Cc1cc(F)ccc1-c1nc(NC(CO)CO)nc2c1ccc(=O)n2-c1c(F)cccc1F.Cc1ccc(S(=O)(=O)O)cc1
+BUPARLISIB HYDROCHLORIDE,Cl.Nc1cc(C(F)(F)F)c(-c2cc(N3CCOCC3)nc(N3CCOCC3)n2)cn1
+AFURESERTIB HYDROCHLORIDE,Cl.Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2cccc(F)c2)sc1Cl
+VEROSUDIL HYDROCHLORIDE,CN(C)C(C(=O)Nc1ccc2c(=O)[nH]ccc2c1)c1ccsc1.Cl
+ICOTINIB HYDROCHLORIDE,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1.Cl
+ANSORNITINIB,COC(=O)c1ccc2c(n1)NC(=O)/C2=C(\Nc1ccc(N(C)C(=O)CN2CCN(C)CC2)cc1)c1ccccc1
+UPADACITINIB TARTRATE,CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12.O.O.O.O.O=C(O)C(O)C(O)C(=O)O
+EDICOTINIB HYDROCHLORIDE,CC1(C)CC=C(c2nc(C3CC(C)(C)OC(C)(C)C3)ccc2NC(=O)c2nc(C#N)c[nH]2)CC1.Cl
+FLIZASERTIB,O=C(c1nc2n(n1)[C@H](c1ccccc1)C[C@@H]2F)C1CC1
+NAZARTINIB MESYLATE,CS(=O)(=O)O.Cc1cc(C(=O)Nc2nc3cccc(Cl)c3n2[C@@H]2CCCCN(C(=O)/C=C/CN(C)C)C2)ccn1.O.O.O
+TANUXICICLIB,Cc1cc(-c2nc(-c3ccnc(N)c3F)ccc2O)nc(N)n1
+RALIMETINIB MESYLATE,CC(C)(C)Cn1c(N)nc2ccc(-c3[nH]c(C(C)(C)C)nc3-c3ccc(F)cc3)nc21.CS(=O)(=O)O.CS(=O)(=O)O
+ATINVICITINIB,COc1cc(Nc2nn([C@H]3COCC[C@@H]3C#N)cc2C(N)=O)cc(F)n1
+VARLITINIB TOSYLATE,C[C@@H]1COC(Nc2ccc3ncnc(Nc4ccc(OCc5nccs5)c(Cl)c4)c3c2)=N1.Cc1ccc(S(=O)(=O)O)cc1.Cc1ccc(S(=O)(=O)O)cc1
+PEFICITINIB HYDROBROMIDE,Br.NC(=O)c1cnc2[nH]ccc2c1N[C@@H]1[C@@H]2CC3C[C@H]1C[C@@](O)(C3)C2
+TOZASERTIB LACTATE,C[C@H](O)C(=O)O.Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)n[nH]1
+FILGOTINIB HYDROCHLORIDE,Cl.O.O.O.O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1
+IRPAGRATINIB,C=CC(=O)N[C@H]1CCOC[C@H]1Nc1ncc2cc(-c3c(F)c(OC)cc(OC)c3F)nc(N3CC(C)(OC)C3)c2n1
+TESEVATINIB TOSYLATE,COc1cc2c(Nc3ccc(Cl)c(Cl)c3F)ncnc2cc1OC[C@@H]1C[C@@H]2CN(C)C[C@@H]2C1.Cc1ccc(S(=O)(=O)O)cc1
+EXARAFENIB HYDROCHLORIDE,Cc1ccc(NC(=O)N2CC[C@@H](CC(F)(F)F)C2)cc1-c1cc(N[C@H](C)CO)nc(N2CCOCC2)c1.Cl
+ILUNOCITINIB,N#CCC1(n2cc(-c3ncnc4[nH]ccc34)cn2)CN(S(=O)(=O)C2CC2)C1
+GOLVATINIB TARTRATE,CN1CCN(C2CCN(C(=O)Nc3cc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)c(F)c4)ccn3)CC2)CC1.O=C(O)C(O)C(O)C(=O)O
+SARACATINIB DIFUMARATE,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1.O=C(O)/C=C/C(=O)O.O=C(O)/C=C/C(=O)O
+MASITINIB MESYLATE,CS(=O)(=O)O.Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nc(-c2cccnc2)cs1
+OLMUTINIB HYDROCHLORIDE,C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccsc23)c1.Cl.Cl
+REBASTINIB TOSYLATE,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3cc(C(C)(C)C)nn3-c3ccc4ncccc4c3)c(F)c2)ccn1.Cc1ccc(S(=O)(=O)O)cc1
+NIMUCITINIB,NC(=O)c1cnc(Nc2cccc(NC(=O)[C@H]3CCCNC3)c2)cc1NCc1cc(F)cc(F)c1
+ZELASUDIL,Cn1nc(-c2ccc(C(=O)NCC(F)F)cc2)nc1Nc1ccc2[nH]ncc2c1C1CC1
+NEMIRALISIB SUCCINATE,CC(C)N1CCN(Cc2cnc(-c3cc(-c4cccc5[nH]ccc45)cc4[nH]ncc34)o2)CC1.CC(C)N1CCN(Cc2cnc(-c3cc(-c4cccc5[nH]ccc45)cc4[nH]ncc34)o2)CC1.O=C(O)CCC(=O)O
+ODITRASERTIB,CC(C)(C(=O)N1CCOc2c(C#N)cncc2C1)C(F)F
+RISVODETINIB,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cncc(-c3oncc3C)c2)n1
+DEZAPELISIB,Cc1csc2nc([C@H](C)Nc3ncnc4[nH]cnc34)c(-c3cccc(F)c3)c(=O)n12
+AMUVATINIB HYDROCHLORIDE,Cl.S=C(NCc1ccc2c(c1)OCO2)N1CCN(c2ncnc3c2oc2ccccc23)CC1
+ALISERTIB SODIUM,COc1cc(Nc2ncc3c(n2)-c2ccc(Cl)cc2C(c2c(F)cccc2OC)=NC3)ccc1C(=O)[O-].O.[Na+]
+LONDAMOCITINIB,COC[C@H](C(=O)Nc1cccc2c(-c3nc(Nc4cccc(S(C)(=O)=O)c4F)ncc3F)c[nH]c12)N1CCN(C)CC1
+DARIZMETINIB,CCCS(=O)(=O)Nc1c(F)ccc(C(=O)c2n[nH]c3ncc(-c4ccncc4)cc23)c1F
+VOLASERTIB TRIHYDROCHLORIDE,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(C(=O)N[C@H]4CC[C@H](N5CCN(CC6CC6)CC5)CC4)cc3OC)nc2N1C(C)C.Cl.Cl.Cl
+LABUXTINIB,Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc2ccccn12
+DIACYLGLYCEROL KINASE INHIBITOR II,O=c1c2ccccc2[nH]c(=S)n1CCN1CCC(=C(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+PIFUSERTIB,C[C@]1(O)C[C@@](N)(c2ccc(-c3nc4n(c3-c3ccccc3)COc3ccncc3-4)cc2)C1
+LESTAURTINIB,C[C@]12O[C@H](C[C@]1(O)CO)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)CNC4=O
+ABIVERTINIB MALEATE,C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)c(F)c3)nc3[nH]ccc23)c1.O.O.O=C(O)/C=C\C(=O)O
+ALTIRATINIB,O=C(Nc1cc(Oc2cc(F)c(NC(=O)C3(C(=O)Nc4ccc(F)cc4)CC3)cc2F)ccn1)C1CC1
+DALMELITINIB,CN1C(=O)COc2c1cnc1ccc(Sc3nnc4c(F)cc(-c5cnn(C)c5)cn34)cc21
+DEURUXOLITINIB PHOSPHATE,O=P(O)(O)O.[2H]C1([2H])C([C@@H](CC#N)n2cc(-c3ncnc4[nH]ccc34)cn2)C([2H])([2H])C([2H])([2H])C1([2H])[2H]
+CINSEBRUTINIB,C=CC(=O)N1CCC[C@@H](c2c(F)cc(C(N)=O)c3[nH]c4c(c23)CCCCC4)C1
+SELONSERTIB,Cc1cc(F)c(C(=O)Nc2cccc(-c3nncn3C(C)C)n2)cc1-n1cnc(C2CC2)c1
+OSIMERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+DEUCRAVACITINIB,[2H]C([2H])([2H])NC(=O)c1nnc(NC(=O)C2CC2)cc1Nc1cccc(-c2ncn(C)n2)c1OC
+MOBOCERTINIB SUCCINATE,C=CC(=O)Nc1cc(Nc2ncc(C(=O)OC(C)C)c(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C.O=C(O)CCC(=O)O
+TRILACICLIB DIHYDROCHLORIDE,CN1CCN(c2ccc(Nc3ncc4cc5n(c4n3)C3(CCCCC3)CNC5=O)nc2)CC1.Cl.Cl
+TENALISIB,CC[C@H](Nc1ncnc2[nH]cnc12)c1oc2ccccc2c(=O)c1-c1cccc(F)c1
+GLESATINIB,COCCNCc1ccc(-c2cc3nccc(Oc4ccc(NC(=S)NC(=O)Cc5ccc(F)cc5)cc4F)c3s2)nc1
+COPANLISIB HYDROCHLORIDE,COc1c(OCCCN2CCOCC2)ccc2c1N=C(NC(=O)c1cnc(N)nc1)N1CCN=C21.Cl.Cl
+GILTERITINIB,CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1
+REFAMETINIB,COc1cc(F)c(F)c(Nc2ccc(I)cc2F)c1NS(=O)(=O)C1(C[C@H](O)CO)CC1
+TOVORAFENIB,C[C@@H](NC(=O)c1ncnc(N)c1Cl)c1ncc(C(=O)Nc2cc(C(F)(F)F)c(Cl)cn2)s1
+SELICICLIB,CC[C@H](CO)Nc1nc(NCc2ccccc2)c2ncn(C(C)C)c2n1
+TELATINIB,CNC(=O)c1cc(COc2nnc(Nc3ccc(Cl)cc3)c3ccoc23)ccn1
+NILOTINIB HYDROCHLORIDE MONOHYDRATE,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1.Cl.O
+ACALABRUTINIB MALEATE,CC#CC(=O)N1CCC[C@H]1c1nc(-c2ccc(C(=O)Nc3ccccn3)cc2)c2c(N)nccn12.O=C(O)/C=C\C(=O)O
+EBVACICLIB,C[C@@]1(O)CCC[C@H]1n1c(=O)c(C(F)F)cc2cnc(NC3CCN(S(C)(=O)=O)CC3)nc21
+NAZARTINIB,Cc1cc(C(=O)Nc2nc3cccc(Cl)c3n2[C@@H]2CCCCN(C(=O)/C=C/CN(C)C)C2)ccn1
+OMIPALISIB,COc1ncc(-c2ccc3nccc(-c4ccnnc4)c3c2)cc1NS(=O)(=O)c1ccc(F)cc1F
+PLOGOSERTIB,COc1cc(C(=O)N[C@H]2CC[C@H](N3CCN(C)CC3)CC2)ccc1Nc1ncc2c(n1)N(C1CCCC1)CC1(CC1)C(=O)N2C
+MIVAVOTINIB CITRATE,Cn1cc(-c2nc(N[C@@H]3CCCC[C@@H]3N)c(F)c3c2C(=O)NC3)cn1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+DEURUXOLITINIB,[2H]C1([2H])C([C@@H](CC#N)n2cc(-c3ncnc4[nH]ccc34)cn2)C([2H])([2H])C([2H])([2H])C1([2H])[2H]
+LENVATINIB,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O
+LENIOLISIB,CCC(=O)N1CC[C@H](Nc2ncnc3c2CN(c2cnc(OC)c(C(F)(F)F)c2)CC3)C1
+RABUSERTIB,Cc1cnc(NC(=O)Nc2cc(Br)c(C)cc2OC[C@@H]2CNCCO2)cn1
+VARLITINIB,C[C@@H]1COC(Nc2ccc3ncnc(Nc4ccc(OCc5nccs5)c(Cl)c4)c3c2)=N1
+PAXALISIB,CC1(C)OCCn2c1nc1c(N3CCOCC3)nc(-c3cnc(N)nc3)nc12
+ELZOVANTINIB,CCN1Cc2c(ccc(F)c2C#N)O[C@@H](C)CNC(=O)c2c(N)nn3ccc1nc23
+PALTIMATRECTINIB,Fc1ccc(F)c([C@H]2CCCN2c2ccn3ncc(-n4cc(C(F)(F)F)cn4)c3n2)c1
+DERAZANTINIB,COCCNCCc1cccc(Nc2ncc3c(n2)-c2ccccc2[C@H](c2ccccc2F)C3)c1
+TINENGOTINIB,Cc1[nH]nc2c1N=C(c1ccccc1Cl)c1cnc(N3CCOCC3)cc1N2
+GOLIDOCITINIB,COc1nn(C)cc1Nc1nccc(-c2c[nH]c3c(NC(=O)[C@@H](C)N4CCN(C)CC4)cccc23)n1
+TALMAPIMOD,C[C@@H]1CN(Cc2ccc(F)cc2)[C@@H](C)CN1C(=O)c1cc2c(C(=O)C(=O)N(C)C)cn(C)c2cc1Cl
+MOBOCERTINIB,C=CC(=O)Nc1cc(Nc2ncc(C(=O)OC(C)C)c(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+CONTELTINIB ,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1nc2c(c(Nc3ccccc3S(=O)(=O)NC(C)C)n1)CCN2
+ZANZALINTINIB,CNC(=O)c1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)ccnc2cc1OC
+ACALABRUTINIB,CC#CC(=O)N1CCC[C@H]1c1nc(-c2ccc(C(=O)Nc3ccccn3)cc2)c2c(N)nccn12
+REPOTRECTINIB,C[C@H]1CNC(=O)c2cnn3ccc(nc23)N[C@H](C)c2cc(F)ccc2O1
+ZILURGISERTIB FUMARATE,Nc1ncc(-c2ccc([C@@]34C[C@@H]3CN(C3CCOCC3)C4)cc2)cc1C(=O)NC12CCC(O)(CC1)CC2.O.O.O=C(O)/C=C/C(=O)O
+POSELTINIB,C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccoc23)c1
+TEPOTINIB HYDROCHLORIDE,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1.Cl.O
+ILORASERTIB,Nc1ncc(-c2cnn(CCO)c2)c2scc(-c3ccc(NC(=O)Nc4cccc(F)c4)cc3)c12
+LANRAPLENIB,Nc1cncc(-c2cn3ccnc3c(Nc3ccc(N4CCN(C5COC5)CC4)cc3)n2)n1
+ULIXERTINIB,CC(C)Nc1cc(-c2c[nH]c(C(=O)N[C@H](CO)c3cccc(Cl)c3)c2)c(Cl)cn1
+TALETRECTINIB,C[C@@H](N)COc1ccc(-c2cnc3ccc(N[C@H](C)c4cccc(F)c4)nn23)cc1
+TOFACITINIB,C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c1ncnc2[nH]ccc12
+ROCILETINIB,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(N4CCN(C(C)=O)CC4)cc3OC)ncc2C(F)(F)F)c1
+MERESTINIB,Cc1ccc(C(=O)Nc2ccc(Oc3cc4cnn(C)c4cc3-c3cn[nH]c3)c(F)c2)c(=O)n1-c1ccc(F)cc1
+ECLITASERTIB,CN1C(=O)[C@@H](NC(=O)c2nc(Cc3ccccc3)n[nH]2)COc2cccnc21
+FASUDIL,O=S(=O)(c1cccc2cnccc12)N1CCCNCC1
+LUNRESERTIB,Cc1cc2c(C(N)=O)c(N)n(-c3c(C)ccc(O)c3C)c2nc1C
+IPATASERTIB,CC(C)NC[C@@H](C(=O)N1CCN(c2ncnc3c2[C@H](C)C[C@H]3O)CC1)c1ccc(Cl)cc1
+GEFITINIB,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1
+MASITINIB,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nc(-c2cccnc2)cs1
+SORAFENIB TOSYLATE,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1.Cc1ccc(S(=O)(=O)O)cc1
+ROPSACITINIB,Cn1cc(-c2cn3nccc3c(-c3cnn([C@]4(CC#N)C[C@@H](C#N)C4)c3)n2)cn1
+RUXOLITINIB PHOSPHATE,N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1.O=P(O)(O)O
+LIRAFUGRATINIB,C=C(C)C(=O)Nc1ccc(-c2c(-c3ccc(Oc4nccc(C)n4)c(F)c3)c3c(N)ncnc3n2C)cc1
+IZENCITINIB,Cc1cc(Nc2cc3ncccc3c(N[C@@H]3C[C@H]4CC[C@@H](C3)N4CCC#N)n2)n[nH]1
+ZOTIRACICLIB CITRATE,CN1C/C=C/CCOc2cccc(c2)-c2ccnc(n2)Nc2cccc(c2)C1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+DEFACTINIB,CNC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(NCc3nccnc3N(C)S(C)(=O)=O)n2)cc1
+BRIGATINIB,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2P(C)(C)=O)n1
+LAPATINIB,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1
+CABOZANTINIB,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC
+EMAVUSERTIB MESYLATE,CS(=O)(=O)O.Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1
+AVAPRITINIB,Cn1cc(-c2cc3c(N4CCN(c5ncc([C@@](C)(N)c6ccc(F)cc6)cn5)CC4)ncnn3c2)cn1
+AFATINIB DIMALEATE,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1.O=C(O)/C=C\C(=O)O.O=C(O)/C=C\C(=O)O
+TRAMETINIB,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1
+MIRANSERTIB,Nc1ncccc1-c1nc2ccc(-c3ccccc3)nc2n1-c1ccc(C2(N)CCC2)cc1
+ZAPNOMETINIB,O=C(O)c1ccc(F)c(F)c1Nc1ccc(I)cc1Cl
+EMAVUSERTIB HYDROCHLORIDE,Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1.Cl
+RIBOCICLIB,CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1
+SARACATINIB,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1
+DASATINIB,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1
+ROVADICITINIB,N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)c(N)n1
+LORLATINIB,C[C@H]1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21
+ASCIMINIB,O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2cc[nH]n2)c1
+AMCASERTIB,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(-c4csc(-c5ccccc5)n4)cc32)c1C
+PUQUITINIB MESYLATE DIHYDRATE,c1cnc2ccc(Nc3nc(NC4CC4)c4nc[nH]c4n3)cc2c1
+OCLACITINIB MALEATE,CNS(=O)(=O)C[C@H]1CC[C@H](N(C)c2[nH]cnc3nccc2-3)CC1.O=C(O)/C=C\C(=O)O
+EMAVUSERTIB PHOSPHATE,Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1.O=P(O)(O)O
+CERALASERTIB,C[C@@H]1COCCN1c1cc(C2([S@](C)(=N)=O)CC2)nc(-c2cc[nH]c3nccc2-3)n1
+EVOBRUTINIB,C=CC(=O)N1CCC(CNc2ncnc(N)c2-c2ccc(Oc3ccccc3)cc2)CC1
+OCIFISERTIB,COc1ccc2c(c1)[C@]1(C[C@H]1c1ccc3c(/C=C/c4ccc(CN5C[C@@H](C)O[C@@H](C)C5)cc4)n[nH]c3c1)C(=O)N2
+PLIXORAFENIB,O=C(c1c(F)ccc(NS(=O)(=O)N2CC[C@@H](F)C2)c1F)c1c[nH]c2ncc(-c3cnc(C4CC4)nc3)cc12
+SPEBRUTINIB BESYLATE,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(OCCOC)cc3)ncc2F)c1.O=S(=O)(O)c1ccccc1
+EMZELTRECTINIB,NC(=O)c1c(N)nn2ccc(N3C[C@@H](F)C[C@@H]3c3cc(F)ccc3F)nc12
+ENSARTINIB,C[C@@H]1CN(C(=O)c2ccc(NC(=O)c3cc(O[C@H](C)c4c(Cl)ccc(F)c4Cl)c(N)nn3)cc2)C[C@H](C)N1
+RIPASUDIL,C[C@H]1CNCCCN1S(=O)(=O)c1cccc2cncc(F)c12
+ROCBRUTINIB,C=CC(=O)Nc1cc(Nc2nc(-c3ccnc(N4CCn5c(cc6c5CC(C)(C)C6)C4=O)c3CO)cn(C)c2=O)ccc1N1CCN(C2CCOCC2)C[C@@H]1C
+BEMCENTINIB,Nc1nc(Nc2ccc3c(c2)CC[C@@H](N2CCCC2)CC3)nn1-c1cc2c(nn1)-c1ccccc1CCC2
+CABOZANTINIB S-MALATE,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC.O=C(O)C[C@H](O)C(=O)O
+APITOLISIB,Cc1c(CN2CCN(C(=O)[C@H](C)O)CC2)sc2c(N3CCOCC3)nc(-c3cnc(N)nc3)nc12
+TEPOTINIB,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1
+EDECESERTIB,C[C@H](C#N)Nc1cc(-c2ccc3cc(C#N)cnn23)ncc1C(=O)NC[C@@H](F)C(C)(C)O
+ZASOCITINIB,CNc1cc(Nc2cccn(-c3ccccn3)c2=O)nc2c(C(=O)N[C@@H]3CC[C@H]3OC)cnn12
+LENIOLISIB PHOSPHATE,CCC(=O)N1CC[C@H](Nc2ncnc3c2CN(c2cnc(OC)c(C(F)(F)F)c2)CC3)C1.O=P(O)(O)O
+ONVANSERTIB,CN1CCN(c2ccc(OC(F)(F)F)c(Nc3ncc4c(n3)-c3c(c(C(N)=O)nn3CCO)CC4)c2)CC1
+RECILISIB,O=C(O)c1ccc(/C=C/S(=O)(=O)Cc2ccc(Cl)cc2)cc1
+DENFIVONTINIB,CN1CCC(Nc2nc(Nc3ccc(Oc4ccccc4)cc3)c3c(=O)[nH]cc(Br)c3n2)CC1
+FASUDIL HYDROCHLORIDE,Cl.O=S(=O)(c1cccc2cnccc12)N1CCCNCC1
+FEDRATINIB HYDROCHLORIDE,Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1.Cl.Cl.O
+DEFACTINIB HYDROCHLORIDE,CNC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(NCc3nccnc3N(C)S(C)(=O)=O)n2)cc1.Cl
+TARLOXOTINIB,Cn1cnc([N+](=O)[O-])c1C[N+](C)(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(Cl)c(Br)c3)ncnc2cn1
+EMAVUSERTIB TOSYLATE,Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1.Cc1ccc(S(=O)(=O)O)cc1
+NEFLAMAPIMOD,O=c1ncn2nc(Sc3ccc(F)cc3F)ccc2c1-c1c(Cl)cccc1Cl
+ELENESTINIB,C[C@](N)(c1ccc(F)cc1)c1cnc(N2CCN(c3ncnn4cc(-c5cnn(CCO)c5)cc34)CC2)nc1
+VISTUSERTIB,CNC(=O)c1cccc(-c2ccc3c(N4CCOC[C@@H]4C)nc(N4CCOC[C@@H]4C)nc3n2)c1
+FIDRISERTIB,CCOC1(c2ccc(-c3cc4c(N5CCN(C(=O)O[C@@H]6CCOC6)CC5)ccnn4c3)nc2)CCN(C(C)C)CC1
+TIBREMCICLIB,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc6n(c5c4)[C@H](C)CCC6)n3)nc2)CC1
+ORANTINIB,Cc1[nH]c(/C=C2\C(=O)Nc3ccccc32)c(C)c1CCC(=O)O
+BELUMOSUDIL MESYLATE,CC(C)NC(=O)COc1cccc(-c2nc(Nc3ccc4[nH]ncc4c3)c3ccccc3n2)c1.CS(=O)(=O)O
+IBRUTINIB,C=CC(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1
+ALISERTIB,COc1cc(Nc2ncc3c(n2)-c2ccc(Cl)cc2C(c2c(F)cccc2OC)=NC3)ccc1C(=O)O
+IVARMACITINIB SULFATE,COc1nsc(NC(=O)N2C[C@H]3C[C@H](N(C)c4ncnc5[nH]ccc45)C[C@H]3C2)n1.O=S(=O)(O)O
+VECABRUTINIB,NC(=O)[C@H]1CCN(c2ncnc(N)c2F)C[C@@H]1N1CCC[C@@H](Nc2cc(Cl)cc(C(F)(F)F)c2)C1=O
+FEXAGRATINIB,COc1cc(CCc2cc(NC(=O)c3ccc(N4C[C@@H](C)N[C@@H](C)C4)cc3)n[nH]2)cc(OC)c1
+UPADACITINIB,CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12
+BELUMOSUDIL,CC(C)NC(=O)COc1cccc(-c2nc(Nc3ccc4[nH]ncc4c3)c3ccccc3n2)c1
+CAMONSERTIB,C[C@@H]1COCCN1c1cc([C@]2(O)C[C@H]3CC[C@@H](C2)O3)c2cnn(-c3cc[nH]n3)c2n1
+AFATINIB,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1
+ERLOTINIB HYDROCHLORIDE,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl
+ECIRUCICLIB,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4ccc5nn(C)c(C(C)C)c5c4)n3)nc2)CC1
+CETILISTAT,CCCCCCCCCCCCCCCCOc1nc2ccc(C)cc2c(=O)o1
+QUIZARTINIB,CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1
+BARASERTIB,CCN(CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1)CCOP(=O)(O)O
+CROZBACICLIB,CC1=Nc2c(F)cc(-c3nc(Nc4ccc(C5CCN(C)CC5)cn4)ncc3F)cc2C12CCCC2
+LAROTRECTINIB SULFATE,O=C(Nc1cnn2ccc(N3CCC[C@@H]3c3cc(F)ccc3F)nc12)N1CC[C@H](O)C1.O=S(=O)(O)O
+UPADACITINIB HEMIHYDRATE,CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12.CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12.O
+LAZERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-n3cc(CN(C)C)c(-c4ccccc4)n3)n2)c(OC)cc1N1CCOCC1
+PELITINIB,CCOc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C
+RESIGRATINIB,C=CC(=O)N1C[C@@H](n2nc(C#Cc3c(F)cc4c(ncn4C4CC4)c3F)c(C(N)=O)c2NC)C[C@@H]1COC
+TALETRECTINIB ADIPATE,C[C@@H](N)COc1ccc(-c2cnc3ccc(N[C@H](C)c4cccc(F)c4)nn23)cc1.O=C(O)CCCCC(=O)O
+ALLITINIB,C=CC(=O)Nc1ccc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2c1
+SIREMADLIN SUCCINATE,COc1ncc(-c2nc3c(n2C(C)C)[C@H](c2ccc(Cl)cc2)N(c2cc(Cl)cn(C)c2=O)C3=O)c(OC)n1.O=C(O)CCC(=O)O
+DECERNOTINIB,CC[C@@](C)(Nc1ccnc(-c2c[nH]c3ncccc23)n1)C(=O)NCC(F)(F)F
+EMAVUSERTIB MALEATE,Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1.O=C(O)/C=C\C(=O)O
+SELUMETINIB,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21
+DACTOLISIB,Cn1c(=O)n(-c2ccc(C(C)(C)C#N)cc2)c2c3cc(-c4cnc5ccccc5c4)ccc3ncc21
+VAMOTINIB,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1nnc2ccccn12
+SAPANISERTIB,CC(C)n1nc(-c2ccc3oc(N)nc3c2)c2c(N)ncnc21
+BERZOSERTIB,CNCc1ccc(-c2cc(-c3nc(-c4ccc(S(=O)(=O)C(C)C)cc4)cnc3N)on2)cc1
+CRAVACITINIB,CNC(=O)c1nnc(NC(=O)C2CC2)cc1Nc1cccc(-c2ncn(C)n2)c1OC
+BOSUTINIB MONOHYDRATE,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl.O
+GUMARONTINIB,Cn1cc(-c2cnc3cnn(S(=O)(=O)c4cnc5ccc(-c6cnn(C)c6)cn45)c3c2)cn1
+UPLARAFENIB,CCCS(=O)(=O)Nc1cc(F)c(F)c(C(=O)c2ccc3ncc(N4CCOCC4)nc3c2)c1F
+NEMTABRUTINIB,O=C(c1ccc(Oc2ccccc2)cc1Cl)c1c[nH]c2ncnc(N[C@@H]3CC[C@@H](CO)OC3)c12
+CENISERTIB,Cc1cc(Nc2ncc(F)c(NC3C4C=CC(C4)C3C(N)=O)n2)ccc1N1CCN(C)CC1
+TIRABRUTINIB HYDROCHLORIDE,CC#CC(=O)N1CC[C@@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1.Cl
+ZONGERTINIB,C=CC(=O)NC1CCN(c2ncc3ncnc(Nc4ccc(Oc5ccc6c(c5)ncn6C)c(C)c4)c3n2)CC1
+LEPZACITINIB,CCOC(=O)c1cnc2[nH]ccc2c1N[C@@H]1CCCN(CC(=O)C#N)C1
+RIPASUDIL HYDROCHLORIDE DIHYDRATE,C[C@H]1CNCCCN1S(=O)(=O)c1cccc2cncc(F)c12.Cl.O.O
+MIVAVOTINIB,Cn1cc(-c2nc(N[C@@H]3CCCC[C@@H]3N)c(F)c3c2C(=O)NC3)cn1
+ADAVOSERTIB,C=CCn1c(=O)c2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc2n1-c1cccc(C(C)(C)O)n1
+SOVLEPLENIB,CS(=O)(=O)N1CCC(c2ccc(-c3ncc4nccnc4c3NC[C@@H]3CNCCO3)cc2)CC1
+TOZASERTIB,Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)n[nH]1
+PEMIGATINIB,CCN1C(=O)N(c2c(F)c(OC)cc(OC)c2F)Cc2cnc3[nH]c(CN4CCOCC4)cc3c21
+LIFIRAFENIB,O=C1CCc2c(Oc3ccc4c(c3)[C@@H]3[C@H](O4)[C@H]3c3nc4cc(C(F)(F)F)ccc4[nH]3)ccnc2N1
+DORAMAPIMOD,Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(OCCN3CCOCC3)c3ccccc23)cc1
+ZILURGISERTIB,Nc1ncc(-c2ccc([C@@]34C[C@@H]3CN(C3CCOCC3)C4)cc2)cc1C(=O)NC12CCC(O)(CC1)CC2
+DOVITINIB LACTATE,CC(O)C(=O)O.CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1.O
+SONOLISIB,C=CCN(/C=C1/C(=O)O[C@H](COC)[C@@]2(C)C1=C(O)C(=O)C1=C2[C@H](OC(C)=O)C[C@]2(C)C(=O)CC[C@@H]12)CC=C
+RIVICICLIB,CN1CCC(c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)C1CO
+PAMAPIMOD,Cn1c(=O)c(Oc2ccc(F)cc2F)cc2cnc(NC(CCO)CCO)nc21
+CANERTINIB,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1
+COBIMETINIB,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1
+LINPERLISIB,COc1ncc(-c2nc(N3CCOCC3)nc3c(CN4CCC(C(C)(C)O)CC4)cc(F)cc23)cc1NS(C)(=O)=O
+RADOTINIB,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cnccn5)n4)c3)cc(C(F)(F)F)c2)cn1
+REMIBRUTINIB,C=CC(=O)N(C)CCOc1c(N)ncnc1-c1cc(F)cc(NC(=O)c2ccc(C3CC3)cc2F)c1C
+ACALISIB,C[C@H](Nc1ncnc2[nH]cnc12)c1nc2ccc(F)cc2c(=O)n1-c1ccccc1
+SIMUROSERTIB,Cc1n[nH]cc1-c1cc2nc([C@@H]3CC4CCN3CC4)[nH]c(=O)c2s1
+ORELABRUTINIB,C=CC(=O)N1CCC(c2ccc(C(N)=O)c(-c3ccc(Oc4ccccc4)cc3)n2)CC1
+EMPRUMAPIMOD,CN(C)CC[C@H](NC(=O)c1cc2c(cnn2C(C)(C)C)cc1Oc1ccc(F)cc1F)C(N)=O
+ABROCITINIB,CCCS(=O)(=O)N[C@H]1C[C@@H](N(C)c2ncnc3[nH]ccc23)C1
+PALBOCICLIB,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O
+BRICICLIB SODIUM,COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(OP(=O)([O-])[O-])c2)c(OC)c1.[Na+].[Na+]
+OSIMERTINIB MESYLATE,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C.CS(=O)(=O)O
+LOMEDEUCITINIB,[2H]C([2H])([2H])NC(=O)c1nnc(NC(=O)[C@@H]2CC23CC3)cc1Nc1ncccc1S(C)(=O)=O
+OCLACITINIB,CNS(=O)(=O)C[C@H]1CC[C@H](N(C)c2[nH]cnc3nccc2-3)CC1
+VECABRUTINIB SUCCINATE,NC(=O)[C@H]1CCN(c2ncnc(N)c2F)C[C@@H]1N1CCC[C@@H](Nc2cc(Cl)cc(C(F)(F)F)c2)C1=O.O=C(O)CCC(=O)O
+AMDIZALISIB,C[C@H](Nc1ncnc(N)c1C#N)c1cc2ncc(Cl)n2nc1-c1ccccc1
+RUXOLITINIB,N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1
+BINIMETINIB,Cn1cnc2c(F)c(Nc3ccc(Br)cc3F)c(C(=O)NOCCO)cc21
+TOMIVOSERTIB,Cc1cc(Nc2cc(N)ncn2)c(=O)n2c1C(=O)NC21CCCCC1
+CRIZOTINIB,C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl
+AVOTACICLIB,Nc1nccc(-c2ccc(O)c(-c3ccnc(N)n3)n2)n1
+SAPITINIB,CNC(=O)CN1CCC(Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC)CC1
+NAQUOTINIB,C=CC(=O)N1CC[C@@H](Oc2nc(Nc3ccc(N4CCC(N5CCN(C)CC5)CC4)cc3)c(C(N)=O)nc2CC)C1
+ENCORAFENIB,COC(=O)N[C@@H](C)CNc1nccc(-c2cn(C(C)C)nc2-c2cc(Cl)cc(NS(C)(=O)=O)c2F)n1
+LINSITINIB,C[C@]1(O)C[C@@H](c2nc(-c3ccc4ccc(-c5ccccc5)nc4c3)c3c(N)nccn32)C1
+ABEMACICLIB,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1
+MONZOSERTIB,CCOC(=O)C1=C(NN2CCN(CC(F)(F)F)CC2)O/C(=C\c2c[nH]c3ncccc23)C1=O
+ASNUCICLIB,CNc1nc(C)c(-c2nc(Nc3cccc(S(N)(=O)=O)c3)ncc2F)s1
+SUNVOZERTINIB,C=CC(=O)Nc1cc(Nc2nccc(Nc3cc(Cl)c(F)cc3C(C)(C)O)n2)c(OC)cc1N1CC[C@@H](N(C)C)C1
+TAFETINIB,CCN(CC)CCNC(=O)c1c(C)[nH]c2c1CCC/C2=C1/C(=O)Nc2ccc(F)cc21
+CATEQUENTINIB,COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ccnc2cc1OCC1(N)CC1
+DABRAFENIB MESYLATE,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1.CS(=O)(=O)O
+PICTILISIB,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1
+FAMITINIB,CCN(CC)CCN1CCc2[nH]c(/C=C3\C(=O)Nc4ccc(F)cc43)c(C)c2C1=O
+PF-04217903,OCCn1cc(-c2cnc3nnn(Cc4ccc5ncccc5c4)c3n2)cn1
+PONATINIB,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12
+PIRTOBRUTINIB,COc1ccc(F)cc1C(=O)NCc1ccc(-c2nn([C@@H](C)C(F)(F)F)c(N)c2C(N)=O)cc1
+ONATASERTIB,CO[C@H]1CC[C@H](N2C(=O)CNc3ncc(-c4ccc(C(C)(C)O)nc4)nc32)CC1
+UMBRALISIB,CC(C)Oc1ccc(-c2nn([C@@H](C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F
+ELSUBRUTINIB,C=CC(=O)N1CCC[C@@H](c2ccc(C(N)=O)c3[nH]ccc23)C1
+SILMITASERTIB,O=C(O)c1ccc2c(c1)nc(Nc1cccc(Cl)c1)c1ccncc12
+UPROSERTIB,Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2ccc(F)c(F)c2)oc1Cl
+BENTAMAPIMOD,N#CC(c1ccnc(OCc2ccc(CN3CCOCC3)cc2)n1)c1nc2ccccc2s1
+ZETELETINIB,COc1cc2cc(-c3ccc(CC(=O)Nc4cc(C(C)(C)C(F)(F)F)no4)cn3)cnc2cc1OC
+SEMAPIMOD,C/C(=N\NC(=N)N)c1cc(NC(=O)CCCCCCCCC(=O)Nc2cc(/C(C)=N/NC(=N)N)cc(/C(C)=N/NC(=N)N)c2)cc(/C(C)=N/NC(=N)N)c1
+ADRIXETINIB,CCCn1cc(OCC(F)(F)F)c(C(=O)Nc2ccc(Oc3ccnc4cc(OC)c(OC)cc34)cn2)n1
+SELUMETINIB SULFATE,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21.O=S(=O)(O)O
+SELETALISIB,[O-][n+]1cccc(-c2nc3c(Cl)cccc3cc2[C@@H](Nc2ncnc3cccnc23)C(F)(F)F)c1
+SAMOTOLISIB,CO[C@@H](C)Cn1c(=O)n(C)c2cnc3ccc(-c4cncc(C(C)(C)O)c4)cc3c21
+BARICITINIB,CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1
+TIRABRUTINIB,CC#CC(=O)N1CC[C@@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1
+TACACICLIB,CC(C)[C@H](C(=O)Nc1cc(C2CC2)[nH]n1)c1cccc(-c2ccc(NC(=O)/C=C/CN3CCOCC3)nc2)c1
+RINETERKIB,CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)[C@@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1
+BEZUCLASTINIB,Cc1[nH]nc(C(=O)Nc2cnc3[nH]c(-c4ccccc4)cc3c2)c1C
+GEDATOLISIB,CN(C)C1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(-c4nc(N5CCOCC5)nc(N5CCOCC5)n4)cc3)cc2)CC1
+VACTOSERTIB,Cc1cccc(-c2[nH]c(CNc3ccccc3F)nc2-c2ccc3ncnn3c2)n1
+CAPMATINIB HYDROCHLORIDE,CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F.Cl.Cl.O
+CANERTINIB DIHYDROCHLORIDE,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1.Cl.Cl
+GUSACITINIB,N#CCC1CCN(c2nc(Nc3ccc(N4CCC(O)CC4)cc3)c3c(=O)[nH]ncc3n2)CC1
+GUSACITINIB HYDROCHLORIDE,Cl.N#CCC1CCN(c2nc(Nc3ccc(N4CCC(O)CC4)cc3)c3c(=O)[nH]ncc3n2)CC1
+PYROTINIB,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)/C=C/[C@H]1CCCN1C
+BOSUTINIB,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl
+BRANEBRUTINIB,CC#CC(=O)N[C@H]1CCCN(c2c(F)cc(C(N)=O)c3[nH]c(C)c(C)c23)C1
+LIFIRAFENIB MALEATE,O=C(O)/C=C/C(=O)O.O=C(O)/C=C/C(=O)O.O=C(O)/C=C/C(=O)O.O=C1CCc2c(Oc3ccc4c(c3)[C@@H]3[C@H](O4)[C@H]3c3nc4cc(C(F)(F)F)ccc4[nH]3)ccnc2N1.O=C1CCc2c(Oc3ccc4c(c3)[C@@H]3[C@H](O4)[C@H]3c3nc4cc(C(F)(F)F)ccc4[nH]3)ccnc2N1
+NARMAFOTINIB,COc1cc(C2CCN(C)CC2)ccc1Nc1ncc(C(F)(F)F)c(CCc2ccccc2CC(N)=O)n1
+VULOLISIB,C[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)SC[C@H]3C(F)F)nc1-2)C(N)=O
+ENTOSPLETINIB,c1cn2cc(-c3ccc4cn[nH]c4c3)nc(Nc3ccc(N4CCOCC4)cc3)c2n1
+DAROVASERTIB,CC1(N)CCN(c2cccnc2NC(=O)c2nc(-c3ncccc3C(F)(F)F)cnc2N)CC1
+THELIATINIB,C#Cc1cccc(Nc2ncnc3cc(OC)c(NC(=O)N4C[C@H]5CCN(C)[C@H]5C4)cc23)c1
+RALIMETINIB,CC(C)(C)Cn1c(N)nc2ccc(-c3[nH]c(C(C)(C)C)nc3-c3ccc(F)cc3)nc21
+SITRAVATINIB,COCCNCc1ccc(-c2cc3nccc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)cc4F)c3s2)nc1
+COBIMETINIB FUMARATE,O=C(O)/C=C/C(=O)O.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1
+ELIMUSERTIB,C[C@@H]1COCCN1c1cc(-c2ccnn2C)c2ccnc(-c3ccn[nH]3)c2n1
+UMBRALISIB TOSYLATE,CC(C)Oc1ccc(-c2nn([C@@H](C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F.Cc1ccc(S(=O)(=O)O)cc1
+TUCATINIB,Cc1cc(Nc2ncnc3ccc(NC4=NC(C)(C)CO4)cc23)ccc1Oc1ccn2ncnc2c1
+FIRMONERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OCC(F)(F)F)nc1N(C)CCN(C)C
+LAROTRECTINIB,O=C(Nc1cnn2ccc(N3CCC[C@@H]3c3cc(F)ccc3F)nc12)N1CC[C@H](O)C1
+QUIZARTINIB DIHYDROCHLORIDE,CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1.Cl.Cl
+NEDOMETINIB,Cn1c(Nc2cc(I)ccc2F)c(C(=O)NOCCO)c2cccnc21
+FILGOTINIB,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1
+PIMASERTIB,O=C(NC[C@H](O)CO)c1ccncc1Nc1ccc(I)cc1F
+ZANZALINTINIB FUMARATE,CNC(=O)c1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)ccnc2cc1OC.CNC(=O)c1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)ccnc2cc1OC.O=C(O)/C=C/C(=O)O
+VEMURAFENIB,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F
+VOLASERTIB,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(C(=O)N[C@H]4CC[C@H](N5CCN(CC6CC6)CC5)CC4)cc3OC)nc2N1C(C)C
+PIMICOTINIB,Cc1nc(NC(=O)N2CCC(C)(C)C2=O)ccc1Oc1ccnc(-c2cnn(C)c2)c1
+ITACITINIB,N#CCC1(n2cc(-c3ncnc4[nH]ccc34)cn2)CN(C2CCN(C(=O)c3ccnc(C(F)(F)F)c3F)CC2)C1
+PILARALISIB,COc1ccc(Cl)c(Nc2nc3ccccc3nc2NS(=O)(=O)c2cccc(NC(=O)C(C)(C)N)c2)c1
+INFIGRATINIB PHOSPHATE,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1.O=P(O)(O)O
+CATEQUENTINIB HYDROCHLORIDE,COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ccnc2cc1OCC1(N)CC1.Cl.Cl
+FEDRATINIB,Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1
+RIGOSERTIB SODIUM,COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(NCC(=O)[O-])c2)c(OC)c1.[Na+]
+TANDUTINIB,COc1cc2c(N3CCN(C(=O)Nc4ccc(OC(C)C)cc4)CC3)ncnc2cc1OCCCN1CCCCC1
+LOMECITINIB,CNC(=O)c1nnc(NC(=O)[C@@H]2CC23CC3)cc1Nc1ncccc1S(C)(=O)=O
+SITRAVATINIB MALATE,COCCNCc1ccc(-c2cc3nccc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)cc4F)c3s2)nc1.O=C(O)CC(O)C(=O)O
+DANUSERTIB,CO[C@@H](C(=O)N1Cc2[nH]nc(NC(=O)c3ccc(N4CCN(C)CC4)cc3)c2C1)c1ccccc1
+MILCICLIB,CNC(=O)c1nn(C)c2c1C(C)(C)Cc1cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc1-2
+BRIGIMADLIN,Cc1c(C(=O)O)ccc2c3n(nc12)[C@@H]1[C@H](C3)N(CC2CC2)[C@@]2(C(=O)Nc3cc(Cl)ccc32)[C@H]1c1cccc(Cl)c1F
+PONATINIB HYDROCHLORIDE,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12.Cl
+PREXASERTIB,COc1cccc(OCCCN)c1-c1cc(Nc2cnc(C#N)cn2)n[nH]1
+ORLISTAT,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O
+ASCIMINIB HYDROCHLORIDE,Cl.O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2cc[nH]n2)c1
+LAPATINIB DITOSYLATE,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1.Cc1ccc(S(=O)(=O)O)cc1.Cc1ccc(S(=O)(=O)O)cc1.O
+IBCASERTIB,COc1ccc2c(Oc3ccc4c(C(=O)Nc5ccccc5N)cccc4c3)ccnc2c1
+TINODASERTIB,N#Cc1ccc(-c2cnc3ccc(-c4ccc(C(=O)N5CCOCC5)cc4)cn23)cc1
+LENVATINIB MESYLATE,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O.CS(=O)(=O)O
+BREPOCITINIB TOSYLATE,Cc1ccc(S(=O)(=O)O)cc1.Cn1cc(Nc2nccc(N3C[C@H]4CC[C@@H](C3)N4C(=O)[C@@H]3CC3(F)F)n2)cn1
+DUVELISIB,C[C@H](Nc1ncnc2nc[nH]c12)c1cc2cccc(Cl)c2c(=O)n1-c1ccccc1
+VOXTALISIB,CCn1c(=O)c(-c2cc[nH]n2)cc2c(C)nc(N)nc21
+NINGETINIB,Cc1c(C(=O)Nc2ccc(Oc3ccnc4cc(OCC(C)(C)O)ccc34)c(F)c2)c(=O)n(-c2ccccc2)n1C
+TOFACITINIB CITRATE,C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c1ncnc2[nH]ccc12.O=C(O)CC(O)(CC(=O)O)C(=O)O
+PEXIDARTINIB HYDROCHLORIDE,Cl.FC(F)(F)c1ccc(CNc2ccc(Cc3c[nH]c4ncc(Cl)cc34)cn2)cn1
+CAPIVASERTIB,NC1(C(=O)N[C@@H](CCO)c2ccc(Cl)cc2)CCN(c2nc[nH]c3nccc2-3)CC1
+OLVEREMBATINIB,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2[nH]ncc2c1
+POVORCITINIB PHOSPHATE,Cc1n[nH]c(C)c1-c1cnn(C2(CC#N)CN(c3cc(F)c(C(=O)N[C@@H](C)C(F)(F)F)cc3F)C2)c1.O=P(O)(O)O
+AXITINIB,CNC(=O)c1ccccc1Sc1ccc2c(/C=C/c3ccccn3)n[nH]c2c1
+PALBOCICLIB ISETHIONATE,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O.O=S(=O)(O)CCO
+ROGINOLISIB,O=C(c1nn(-c2ccc(CN3CCOCC3)cc2)c2c1CS(=O)(=O)c1c(F)cccc1-2)N1CCOCC1
+PUMECITINIB,CC(C)S(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)c(N)n2)C1
+SORAFENIB,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1
+ITACITINIB ADIPATE,N#CCC1(n2cc(-c3ncnc4[nH]ccc34)cn2)CN(C2CCN(C(=O)c3ccnc(C(F)(F)F)c3F)CC2)C1.O=C(O)CCCCC(=O)O
+ONVANSERTIB FUMARATE,CN1CCN(c2ccc(OC(F)(F)F)c(Nc3ncc4c(n3)-c3c(c(C(N)=O)nn3CCO)CC4)c2)CC1.O=C(O)/C=C/C(=O)O
+TUVUSERTIB,Cn1cncc1-c1c(F)cncc1NC(=O)c1c(N)nn2cc(F)cnc12
+NAQUOTINIB MESYLATE,C=CC(=O)N1CC[C@@H](Oc2nc(Nc3ccc(N4CCC(N5CCN(C)CC5)CC4)cc3)c(C(N)=O)nc2CC)C1.CS(=O)(=O)O
+TUXOBERTINIB,C=CC(=O)Nc1cc2c(Nc3ccc(OCc4ccccn4)c(Cl)c3)ncnc2cc1OCCN1CCOCC1
+BELVARAFENIB,Cc1ccc2c(Nc3cccc(Cl)c3F)nccc2c1NC(=O)c1csc2c(N)ncnc12
+FOSTAMATINIB,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)N(COP(=O)(O)O)C(=O)C(C)(C)O4)n2)cc(OC)c1OC
+SOFNOBRUTINIB,Cn1cc(Nc2nc(N)nc(-c3cccc(-n4ccc5cc(C6CC6)cc(F)c5c4=O)c3CO)n2)cn1
+TRILACICLIB,CN1CCN(c2ccc(Nc3ncc4cc5n(c4n3)C3(CCCCC3)CNC5=O)nc2)CC1
+PEFICITINIB,NC(=O)c1cnc2[nH]ccc2c1N[C@@H]1[C@@H]2CC3C[C@H]1C[C@@](O)(C3)C2
+SAVOLITINIB,C[C@@H](c1ccc2nccn2c1)n1nnc2ncc(-c3cnn(C)c3)nc21
+RUSERONTINIB,CC(C)n1c(Nc2cccnc2)nc2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc21
+IFEBEMTINIB,COc1cc(C(=O)NC2CCN(C)CC2)c(F)cc1Nc1ncc(C(F)(F)F)c(Oc2cccc3c2C(=O)N(C)C3)n1
+DINACICLIB,CCc1cnn2c(NCc3ccc[n+]([O-])c3)cc(N3CCCC[C@H]3CCO)nc12
+MOMELOTINIB DIHYDROCHLORIDE,Cl.Cl.N#CCNC(=O)c1ccc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)cc1
+NILOTINIB,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1
+IFIDANCITINIB,COc1cc(Nc2ncc(C)c(Nc3ccc4oc(=O)[nH]c4c3)n2)cc(C)c1F
+LARTESERTIB,COc1cc2ncc3c(c2cc1-c1cn(C)nc1C)n(-c1c(F)cncc1OC)c(=O)n3C
+ENTRECTINIB,CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1
+SELITRECTINIB,C[C@@H]1CCc2ncc(F)cc2[C@H]2CCCN2c2ccn3ncc(c3n2)C(=O)N1
+ICOTINIB,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1
+SACIBERTINIB,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c(C#N)cnc2cc1O[C@H]1CCOC1
+ABIVERTINIB,C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)c(F)c3)nc3[nH]ccc23)c1
+PACRITINIB CITRATE,C1=C/COCc2cc(ccc2OCCN2CCCC2)Nc2nccc(n2)-c2cccc(c2)COC/1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+IDELALISIB,CC[C@H](Nc1ncnc2[nH]cnc12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1
+SIMOTINIB,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCN1CC2(CC2)C2(C1)OCCO2
+RESENCATINIB,C#C[C@@](C)(O)COc1cc(-c2ccc(N3CC4CC(C3)N4Cc3ccc(OC)nc3)nc2)c2c(C#N)cnn2c1
+MIRDAMETINIB,O=C(NOC[C@H](O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F
+NAVTEMADLIN,CC(C)[C@@H](CS(=O)(=O)C(C)C)N1C(=O)[C@@](C)(CC(=O)O)C[C@H](c2cccc(Cl)c2)[C@H]1c1ccc(Cl)cc1
+ENITOCICLIB,COc1cc(F)ccc1-c1cc(Nc2cc(CS(C)(=N)=O)ccn2)ncc1F
+SIREMADLIN,COc1ncc(-c2nc3c(n2C(C)C)[C@H](c2ccc(Cl)cc2)N(c2cc(Cl)cn(C)c2=O)C3=O)c(OC)n1
+ZETELETINIB ADIPATE,COc1cc2cc(-c3ccc(CC(=O)Nc4cc(C(C)(C)C(F)(F)F)no4)cn3)cnc2cc1OC.COc1cc2cc(-c3ccc(CC(=O)Nc4cc(C(C)(C)C(F)(F)F)no4)cn3)cnc2cc1OC.O=C(O)CCCCC(=O)O
+INFIGRATINIB,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1
+IMATINIB MESYLATE,CS(=O)(=O)O.Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+EMAVUSERTIB,Cc1cc(-c2nc(C(=O)Nc3cc4oc(N5CCOCC5)nc4nc3N3CC[C@@H](O)C3)co2)ccn1
+TIVANTINIB,O=C1NC(=O)[C@@H](c2cn3c4c(cccc24)CCC3)[C@@H]1c1c[nH]c2ccccc12
+PEGCANTRATINIB,COCCN1C(=O)O[C@@]2(C[C@H]3O[C@]2(C)n2c4ccccc4c4c5c(c6c7ccccc7n3c6c42)C(=O)NC5)C1=O
+NARAZACICLIB,CN1CCN(c2ccc(Nc3ncc4cc(C#N)c(=O)n(C5CCCC5)c4n3)cc2)CC1
+INAVOLISIB,C[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C(N)=O
+SERABELISIB,Nc1nc2cc(-c3ccc4ncc(C(=O)N5CCOCC5)n4c3)ccc2o1
+PIMASERTIB HYDROCHLORIDE,Cl.O=C(NC[C@H](O)CO)c1ccncc1Nc1ccc(I)cc1F
+CERDULATINIB,CCS(=O)(=O)N1CCN(c2ccc(Nc3ncc(C(N)=O)c(NC4CC4)n3)cc2)CC1
+ALPELISIB,Cc1nc(NC(=O)N2CCC[C@H]2C(N)=O)sc1-c1ccnc(C(C)(C)C(F)(F)F)c1
+PANULISIB,Cn1/c(=N\C#N)n(-c2ccc(C(C)(C)C#N)nc2)c2c3cc(-c4cnc(N)c(C(F)(F)F)c4)ccc3ncc21
+ACUMAPIMOD,Cc1ccc(C(=O)NC2CC2)cc1-n1ncc(C(=O)c2cccc(C#N)c2)c1N
+FLUMATINIB,Cc1ncc(NC(=O)c2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1Nc1nccc(-c2cccnc2)n1
+DOVITINIB,CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1
+REGORAFENIB,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1
+LEROCICLIB,CC(C)N1CCN(c2ccc(Nc3ncc4cc5n(c4n3)C3(CCCCC3)CNC5=O)nc2)CC1
+BIMIRALISIB,Nc1cc(C(F)(F)F)c(-c2nc(N3CCOCC3)nc(N3CCOCC3)n2)cn1
+MILREBRUTINIB,Nc1nc(-c2cccc(-n3ccc4cc(C5CC5)cc(F)c4c3=O)c2CO)c2cc(C3=CCN(C4COC4)CC3)[nH]c2n1
+FISOGATINIB,C=CC(=O)N[C@H]1CCOC[C@H]1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1
+GALUNISERTIB,Cc1cccc(-c2nn3c(c2-c2ccnc4ccc(C(N)=O)cc24)CCC3)n1
+TAMNORZATINIB,COc1cc2nccc(Oc3ccc(NC(=O)c4cc5c(n(-c6ccccc6)c4=O)CCCC5=O)nc3)c2cc1OC
+NEMIRALISIB,CC(C)N1CCN(Cc2cnc(-c3cc(-c4cccc5[nH]ccc45)cc4[nH]ncc34)o2)CC1
+CULMERCICLIB,CC(C)c1c2cc(-c3nc(Nc4ccc(N5CCNCC5)cn4)ncc3F)ccc2nn1C
+SUNITINIB,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C
+RITLECITINIB TOSYLATE,C=CC(=O)N1C[C@H](Nc2ncnc3[nH]ccc23)CC[C@@H]1C.Cc1ccc(S(=O)(=O)O)cc1
+BODITRECTINIB,O=C(/C=C/c1cnn2ccc(N3CCC[C@@H]3c3cc(F)ccc3F)nc12)N1CCNCC1
+INIXACICLIB,CC(C)N1CCOc2c(F)cc(-c3nc(Nc4ccc(C5CCN(C)CC5)cn4)ncc3F)cc21
+PADNARSERTIB,Nc1ccc(/C=C/C(=O)NCc2cc3cc(-c4ccc(C(=O)N5CCC(F)(F)CC5)cc4)cc(-c4ccc(F)cc4)c3o2)cn1
+NERATINIB MALEATE,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C.O=C(O)/C=C\C(=O)O
+ZURLETRECTINIB,C[C@H]1CNC(=O)Nc2cnn3ccc(nc23)N2C[C@@H](F)C[C@@H]2c2cc(F)cnc2O1
+NEZULCITINIB,CCc1cc(O)ccc1-c1ccc2c(-c3nc4c([nH]3)C[C@@H](C(=O)N3CC(N(C)C)C3)N(C(C)C)C4)n[nH]c2c1
+ROGARATINIB,COCc1c(-c2cc3cc(C)cc(OC)c3s2)c2c(N)ncnn2c1CN1CCNC(=O)C1
+GILMELISIB,COc1ncc(-c2ccc3ncc(OCCN(C)C)c(=O)n3c2)cc1NS(=O)(=O)c1ccc(F)cc1Cl
+TARLOXOTINIB BROMIDE,Cn1cnc([N+](=O)[O-])c1C[N+](C)(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(Cl)c(Br)c3)ncnc2cn1.[Br-]
+ALECTINIB HYDROCHLORIDE,CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O.Cl
+EGANELISIB,C[C@H](NC(=O)c1c(N)nn2cccnc12)c1cc2cccc(C#Cc3cnn(C)c3)c2c(=O)n1-c1ccccc1
+DABRAFENIB,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1
+PACRITINIB,C1=N/C2=N/c3ccc(OCCN4CCCC4)c(c3)COC/C=C/COCc3cccc(c3)C(=C1)N2
+NETARSUDIL DIMESYLATE,CS(=O)(=O)O.CS(=O)(=O)O.Cc1ccc(C(=O)OCc2ccc([C@@H](CN)C(=O)Nc3ccc4cnccc4c3)cc2)c(C)c1
+VODOBATINIB,Cc1ccc(C(=O)NNC(=O)c2c(C)cccc2Cl)cc1C#Cc1cnc2ccccc2c1
+SPEBRUTINIB,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(OCCOC)cc3)ncc2F)c1
+PARSACLISIB,CCOc1c([C@H](C)n2nc(C)c3c(N)ncnc32)cc(Cl)c(F)c1[C@@H]1CNC(=O)C1
+ENBEZOTINIB,C[C@H]1CNC(=O)c2cnn3cc4c(nc23)N(Cc2cc(F)cnc2O1)[C@@H]1CCC[C@@H]1O4
+TEMUTERKIB MESYLATE,CS(=O)(=O)O.Cn1nccc1Nc1nccc(-c2cc3c(s2)C(C)(C)N(CCN2CCOCC2)C3=O)n1
+GOLVATINIB,CN1CCN(C2CCN(C(=O)Nc3cc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)c(F)c4)ccn3)CC2)CC1
+DACOMITINIB ANHYDROUS,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1
+TILPISERTIB,Cn1ccc2c([C@H](Nc3cc(Cl)c4ncc(C#N)c(NCC(C)(C)C)c4c3)c3cn(C45CC(C4)C5)nn3)cccc2c1=O
+SERALUTINIB,COc1ccc(-c2cncc(N[C@@H](C)c3cccc(NC(=O)c4cncc(C)c4)c3)n2)cc1OC
+MILCICLIB MALEATE,CNC(=O)c1nn(C)c2c1C(C)(C)Cc1cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc1-2.O=C(O)/C=C\C(=O)O
+LUVIXASERTIB,Cc1cc(-c2cnn3c(NC[C@H]4C[C@@](C)(O)C4)cc(Oc4cccnc4)nc23)ccc1C(=O)NC1CC1
+IVARMACITINIB,COc1nsc(NC(=O)N2C[C@H]3C[C@H](N(C)c4ncnc5[nH]ccc45)C[C@H]3C2)n1
+SULANEMADLIN,CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@]1(C)CCCCCC/C=C/CCC[C@@](C)(C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(N)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCC(=O)O)NC1=O)[C@@H](C)O
+SUNITINIB MALATE,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C.O=C(O)C[C@H](O)C(=O)O
+NETARSUDIL,Cc1ccc(C(=O)OCc2ccc([C@@H](CN)C(=O)Nc3ccc4cnccc4c3)cc2)c(C)c1
+REZIVERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1OCCN(C)C
+VORUCICLIB,CN1CC[C@@H](c2c(O)cc(O)c3c(=O)cc(-c4ccc(C(F)(F)F)cc4Cl)oc23)[C@@H]1CO
+TILPISERTIB FOSMECARBIL,Cn1ccc2c([C@@H](c3cn(C45CC(C4)C5)nn3)N(C(=O)OCOP(=O)(O)O)c3cc(Cl)c4nc(NCC(C)(C)C)c(C#N)cc4c3)cccc2c1=O
+DELGOCITINIB,C[C@H]1CN(C(=O)CC#N)[C@]12CCN(c1ncnc3[nH]ccc13)C2
+LUXEPTINIB,Cc1c[nH]c(-c2ccc(-c3ccc(NC(=O)Nc4c(F)cc(F)cc4F)cc3F)c3c2C(=O)NC3)n1
+ZANDELISIB,CN1CCC(c2ccccc2CC(C)(C)Nc2nc(N3CCOCC3)nc(-n3c(C(F)F)nc4ccccc43)n2)CC1
+CANLITINIB,COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCCCC(=O)O
+SOLCITINIB,CC1(C)CN(C(=O)c2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)C1
+VEBRELTINIB,Cn1cc2cc(C(F)(F)c3nnc4ccc(-c5cnn(C6CC6)c5)nn34)c(F)cc2n1
+DALPICICLIB,CC(=O)c1c(C)c2cnc(Nc3ccc(C4CCNCC4)cn3)nc2n(C2CCCC2)c1=O
+PARSACLISIB HYDROCHLORIDE,CCOc1c([C@H](C)n2nc(C)c3c(N)ncnc32)cc(Cl)c(F)c1[C@@H]1CNC(=O)C1.Cl
+VEROSUDIL,CN(C)C(C(=O)Nc1ccc2c(=O)[nH]ccc2c1)c1ccsc1
+AMUVATINIB,S=C(NCc1ccc2c(c1)OCO2)N1CCN(c2ncnc3c2oc2ccccc23)CC1
+PRALSETINIB,CO[C@]1(C(=O)N[C@@H](C)c2ccc(-n3cc(F)cn3)nc2)CC[C@H](c2nc(C)cc(Nc3cc(C)[nH]n3)n2)CC1
+HENATINIB,Cc1c(/C=C2\C(=O)Nc3ccc(F)cc32)[nH]c2c1C(=O)N(C[C@H](O)CN1CCOCC1)CCC2
+TRAMETINIB DIMETHYL SULFOXIDE,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1.C[S+](C)[O-]
+RIBOCICLIB SUCCINATE,CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1.O=C(O)CCC(=O)O
+VIMSELTINIB,Cc1nc(-c2cnc(NC(C)C)n(C)c2=O)ccc1Oc1ccnc(-c2cnn(C)c2)c1
+FRUQUINTINIB,CNC(=O)c1c(C)oc2cc(Oc3ncnc4cc(OC)c(OC)cc34)ccc12
+POZIOTINIB HYDROCHLORIDE,C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1.Cl
+DUBERMATINIB,CN1CCN(Cc2ccc(Nc3ncc(Cl)c(Nc4ccccc4S(=O)(=O)N(C)C)n3)cc2)CC1
+MUBRITINIB,FC(F)(F)c1ccc(/C=C/c2nc(COc3ccc(CCCCn4ccnn4)cc3)co2)cc1
+AVUTOMETINIB POTASSIUM,CNS(=O)(=O)[N-]c1nccc(Cc2c(C)c3ccc(Oc4ncccn4)cc3oc2=O)c1F.[K+]
+LIRAFUGRATINIB HYDROCHLORIDE,C=C(C)C(=O)Nc1ccc(-c2c(-c3ccc(Oc4nccc(C)n4)c(F)c3)c3c(N)ncnc3n2C)cc1.Cl
+FOSTAMATINIB DISODIUM,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)N(COP(=O)([O-])[O-])C(=O)C(C)(C)O4)n2)cc(OC)c1OC.O.O.O.O.O.O.[Na+].[Na+]
+MIFANERTINIB,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC(F)F
+AVUTOMETINIB,CNS(=O)(=O)Nc1nccc(Cc2c(C)c3ccc(Oc4ncccn4)cc3oc2=O)c1F
+ENSARTINIB HYDROCHLORIDE,C[C@@H]1CN(C(=O)c2ccc(NC(=O)c3cc(O[C@H](C)c4c(Cl)ccc(F)c4Cl)c(N)nn3)cc2)C[C@H](C)N1.Cl.Cl
+RILZABRUTINIB,CC(C)(/C=C(\C#N)C(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3F)c3c(N)ncnc32)C1)N1CCN(C2COC2)CC1
+IMATINIB,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+TESEVATINIB,COc1cc2c(Nc3ccc(Cl)c(Cl)c3F)ncnc2cc1OC[C@@H]1C[C@@H]2CN(C)C[C@@H]2C1
+PEXIDARTINIB,FC(F)(F)c1ccc(CNc2ccc(Cc3c[nH]c4ncc(Cl)cc34)cn2)cn1
+UNECRITINIB,CC(=O)Nc1ncc(-c2cnn(C3CCNCC3)c2)cc1O[C@H](C)c1c(Cl)ccc(F)c1Cl
+FENEBRUTINIB,C[C@H]1CN(C2COC2)CCN1c1ccc(Nc2cc(-c3ccnc(N4CCn5c(cc6c5CC(C)(C)C6)C4=O)c3CO)cn(C)c2=O)nc1
+ZANUBRUTINIB,C=CC(=O)N1CCC([C@@H]2CCNc3c(C(N)=O)c(-c4ccc(Oc5ccccc5)cc4)nn32)CC1
+AUMOLERTINIB,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C4CC4)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+MOMELOTINIB,N#CCNC(=O)c1ccc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)cc1
+LGH-447,C[C@@H]1C[C@H](N)C[C@H](c2ccncc2NC(=O)c2ccc(F)c(-c3c(F)cccc3F)n2)C1
+AUMOLERTINIB MESYLATE,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C4CC4)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C.CS(=O)(=O)O
+REBASTINIB,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3cc(C(C)(C)C)nn3-c3ccc4ncccc4c3)c(F)c2)ccn1
+TANZISERTIB,O[C@H]1CC[C@H](Nc2ncc3nc(Nc4c(F)cc(F)cc4F)n([C@H]4CCOC4)c3n2)CC1
+RAVOXERTINIB,Cn1nccc1Nc1nccc(-c2ccn([C@H](CO)c3ccc(Cl)c(F)c3)c(=O)c2)n1
+CIVOREBRUTINIB,N#CN1C[C@H](n2nc(-c3ccc(Oc4ccc(Cl)cn4)cc3)c(C(N)=O)c2N)CCC12CC2
+DASATINIB LAURYLSULFATE,CCCCCCCCCCCCOS(=O)(=O)O.Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1
+ATUVECICLIB,COc1cc(F)ccc1-c1ncnc(Nc2cccc(C[S@](C)(=N)=O)c2)n1
+FILGOTINIB MALEATE,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1.O=C(O)/C=C\C(=O)O
+IZORLISIB,CS(=O)(=O)N1CCc2c(-c3cnc(N)nc3)nc(N3CCOCC3)nc21
+DACOMITINIB,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1.O
+TUSPETINIB,Cc1ccc2c(-c3nc(Nc4cc(CN5C[C@@H](C)N[C@@H](C)C5)cc(C5CC5)c4)ncc3Cl)c[nH]c2c1
+DILMAPIMOD,Cc1cc(F)ccc1-c1nc(NC(CO)CO)nc2c1ccc(=O)n2-c1c(F)cccc1F
+POVORCITINIB,Cc1n[nH]c(C)c1-c1cnn(C2(CC#N)CN(c3cc(F)c(C(=O)N[C@@H](C)C(F)(F)F)cc3F)C2)c1
+TOMIVOSERTIB HYDROCHLORIDE,Cc1cc(Nc2cc(N)ncn2)c(=O)n2c1C(=O)NC21CCCCC1.Cl
+BAFETINIB,Cc1ccc(NC(=O)c2ccc(CN3CC[C@H](N(C)C)C3)c(C(F)(F)F)c2)cc1Nc1nccc(-c2cncnc2)n1
