@@ -1,7 +1,6 @@
 # KinaseSeek: A Case Study in Virtual Screening for Kinase Inhibitors
 
 1) Objective: This project is a self-directed case study demonstrating a ligand-based virtual screening workflow for kinase inhibitors, focused on EGFR, a key oncology target.
-The goal is to showcase the full process: from target and library selection to docking, post-processing, and hit analysis. The entire workflow is documented in a single Jupyter Notebook.
 
 2) Key Features:
 
