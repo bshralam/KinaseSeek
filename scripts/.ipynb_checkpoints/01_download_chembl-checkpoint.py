@@ -4,7 +4,6 @@
 Example:
     python scripts/01_download_chembl.py --out data/egfr_chembl.csv --min_pchembl 6.0
 """
-from urllib.parse import urljoin
 import argparse, sys, time
 import pandas as pd
 import requests
@@ -13,8 +12,7 @@ from tqdm import tqdm
 EGFR_TARGET = "CHEMBL203"  # Human EGFR
 
 def fetch_activities(min_pchembl: float = 0.0, max_per_mol: int = 1, limit: int = 5000) -> pd.DataFrame:
-    BASE_ROOT = "https://www.ebi.ac.uk"
-    base = f"{BASE_ROOT}/chembl/api/data/activity.json"
+    base = "https://www.ebi.ac.uk/chembl/api/data/activity.json"
     params = {
         "target_chembl_id": EGFR_TARGET,
         "standard_type": "IC50",
@@ -65,11 +63,10 @@ def fetch_activities(min_pchembl: float = 0.0, max_per_mol: int = 1, limit: int 
                 if fetched >= limit:
                     break
 
-            next_url = data.get("next")
-            if next_url:
-                url = urljoin(BASEROOT, next_url)
-            else:
-                url = None
+            url = data.get("page_meta", {}).get("next", None)
+            if url is None:
+                break
+            time.sleep(0.1)
 
     df = pd.DataFrame(rows).drop_duplicates()
     return df

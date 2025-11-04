@@ -3,13 +3,13 @@ from rdkit.Chem import AllChem, DataStructs
 import pandas as pd
 
 # Load known kinase inhibitors
-df = pd.read_csv("data/chembl_export_clean.csv")
-df = df.dropna(subset=['smiles'])  # Remove rows with missing SMILES
-df['mol'] = df['smiles'].apply(lambda s: Chem.MolFromSmiles(str(s)))
+df = pd.read_csv("../data/test.csv")
+df = df.dropna(subset=['canonical_smiles'])  # Remove rows with missing SMILES
+df['mol'] = df['canonical_smiles'].apply(lambda s: Chem.MolFromSmiles(str(s)))
 ref_fps = [AllChem.GetMorganFingerprintAsBitVect(m, 2, 2048) for m in df['mol'] if m]
 
 # Load ZINC SMILES
-with open("data/zinc_subset_production.smi", 'r') as f:
+with open("../data/zinc_subset_production.smi", 'r') as f:
     smiles_list = [line.strip() for line in f]
 
 zinc_mols = [Chem.MolFromSmiles(s) for s in smiles_list]
@@ -24,7 +24,7 @@ ranked = [(smiles_list[i], avg_similarity(fp, ref_fps)) for i, fp in enumerate(z
 ranked.sort(key=lambda x: x[1], reverse=True)
 
 # Save results
-with open("data/top_ranked_hits_prod.csv", "w") as f:
+with open("../data/top_ranked_hits_test.csv", "w") as f:
     f.write("smiles,avg_tanimoto\n")
     for smi, score in ranked[:20]:
         f.write(f"{smi},{score:.4f}\n")
